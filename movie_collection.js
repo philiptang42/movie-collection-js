@@ -11,4 +11,5 @@ var getReview = function(movie) {
   }
 };
 
-console.log(getReview("Toy Story 2"))
+console.log(getReview("test"))
+console.log(getReview("Finding Nemo"))
